@@ -147,7 +147,7 @@ The meeting began with introductions and discussion about project updates.
 
 Developed by: Gireesh Boggala
 
-Tech Stack: Streamlit · Whisper · Pyannote · Transformers · Torch
+Tech Stack: Streamlit , Whisper , Pyannote , Transformers , Torch
 
 Tools : VS Studio Code , Google Colab , Streamlit
 
